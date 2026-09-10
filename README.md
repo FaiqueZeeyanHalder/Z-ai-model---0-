@@ -16,6 +16,3 @@ Using the genetic algorithm, the A.I. “learns” to go through the maze using 
 * **Play it Yourself**: Press P to play the game yourself. For a human equipped with a mind adapted from years of evolution, this should be easy to you. But once the A.I. beats the game, you'll find that you're more prone to mistakes than it is. 
 * **Evolution Highlights**: Press G to replay evolution highlights.
 
-This project was jointly created with a very nice human, [@RaiyanRahman](https://github.com/RaiyanRahman).
-
-Check out [Code Bullet](https://github.com/Code-Bullet) for a rudimentary basis of the genetic algorithm.
