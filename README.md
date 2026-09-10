@@ -1,4 +1,4 @@
-# AdamAI
+# Z ai model --  0 
 <p align="center">
 An A.I. that learns to traverse a maze using the genetic algorithm.
 
