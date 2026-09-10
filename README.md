@@ -15,4 +15,7 @@ Using the genetic algorithm, the A.I. “learns” to go through the maze using 
 * **Evolution Cycle Controls**: You are able to change the population size (more/less chance for a better fit), mutation rate (how much the A.I. deviates from the norm), and evolution speed (just make the process faster; set to 6 if you do not want to wait forever). You are also able to increase a certain number of moves by a certain number of generations (the recommended amount is 5 moves per 5 generations).
 * **Play it Yourself**: Press P to play the game yourself. For a human equipped with a mind adapted from years of evolution, this should be easy to you. But once the A.I. beats the game, you'll find that you're more prone to mistakes than it is. 
 * **Evolution Highlights**: Press G to replay evolution highlights.
+* 
+This project was jointly created with a very nice human, @RaiyanRahman.
 
+Check out Code Bullet for a rudimentary basis of the genetic algorithm.
